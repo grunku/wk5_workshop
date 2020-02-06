@@ -1,1 +1,1 @@
-wk5_workshop
+This is a repository created for IAT339's Week 5 Workshop.
